@@ -1,10 +1,7 @@
-Hi, I'm Roshan 👋
 🌐 Connect With Me
 
-GitHub: https://github.com/roshanyadav20
+🐙 GitHub: https://github.com/roshanyadav20
 
-LinkedIn
+💼 LinkedIn: https://www.linkedin.com/in/roshanyadav337/
 
-Instagram
-
-Email
+📧Email: roshanyadav7864@gmail.com
