@@ -43,6 +43,13 @@ ________________________________________________________________________________
 - 🔗 **Table Relationships**: Joins (INNER, LEFT, RIGHT, FULL OUTER), subqueries, and table unions.
 - 📊 **Aggregations**: GROUP BY, HAVING, and aggregate functions (SUM, AVG, MIN, MAX, COUNT).
 - 🚀 **Advanced SQL**: Writing window functions (RANK, DENSE_RANK), views, and stored procedures.
+
+**Module 03**: Statistics & Mathematics
+
+- 📊 **Descriptive Statistics:** Central tendency (Mean, Median, Mode), Variance, and Standard Deviation.
+- 🎲 **Inferential Statistics:** Probability Theory, Z-score calculations, Normal and Binomial Distributions.
+- 🧪 **Hypothesis Testing:** Null and Alternative Hypotheses, T-tests, ANOVA, and P-value validation.
+- 🧮 **Linear Algebra:** Matrices, Dot Products, Vectors, and Optimization Techniques. 
  
 
 _________________________________________________________________________________________________________________________________________________________________
