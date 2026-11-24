@@ -23,17 +23,17 @@ ________________________________________________________________________________
 
 **Module 01**: Python Programming
 
--🧩 **Core Syntax:** Variables, basic operators, data types, and conditional structures.
--🔄 **Functions & Loops:** Writing reusable functions, list comprehensions, and while/for loops.
--🏗️ **OOP Principles:** Designing classes, inheritance, encapsulation, and exception handling.
--📂 **Data Operations:** File reading/writing, JSON payloads, directories, and standard Python modules.
+-🧩 **Core Syntax**: Variables, basic operators, data types, and conditional structures.
+-🔄 **Functions & Loops**: Writing reusable functions, list comprehensions, and while/for loops.
+-🏗️ **OOP Principles**: Designing classes, inheritance, encapsulation, and exception handling.
+-📂 **Data Operations**: File reading/writing, JSON payloads, directories, and standard Python modules.
 
 **Module 02**: SQL & Databases
 
-- 🗄️ **CRUD Operations:** Writing SELECT queries, inserting, updating, and deleting records.
-- 🔗 **Table Relationships:** Joins (INNER, LEFT, RIGHT, FULL OUTER), subqueries, and table unions.
-- 📊 **Aggregations:** GROUP BY, HAVING, and aggregate functions (SUM, AVG, MIN, MAX, COUNT).
-- 🚀 **Advanced SQL:** Writing window functions (RANK, DENSE_RANK), views, and stored procedures.
+- 🗄️ **CRUD Operations**: Writing SELECT queries, inserting, updating, and deleting records.
+- 🔗 **Table Relationships**: Joins (INNER, LEFT, RIGHT, FULL OUTER), subqueries, and table unions.
+- 📊 **Aggregations**: GROUP BY, HAVING, and aggregate functions (SUM, AVG, MIN, MAX, COUNT).
+- 🚀 **Advanced SQL**: Writing window functions (RANK, DENSE_RANK), views, and stored procedures.
 ________________________________________________________________________________________________________________________________________________________________                                                               
 -🌐 Connect With Me
 
