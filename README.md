@@ -28,32 +28,6 @@ ________________________________________________________________________________
 "My goal is to become a Data Scientist by developing strong programming, analytical, and problem-solving skills."
 ___________________________________________________________________________________________________________________________________
 
-## 📚 Course Modules
-
-**Module 01**: Python Programming
-
-- 🧩 **Core Syntax**: Variables, basic operators, data types, and conditional structures.
-- 🔄 **Functions and Loops**: Writing reusable functions, list comprehensions, and while/for loops.
-- 🏗️ **OOP Principles**: Designing classes, inheritance, encapsulation, and exception handling.
-- 📂 **Data Operations**: File reading/writing, JSON payloads, directories, and standard Python modules.
-
-**Module 02**: SQL & Databases
-
-- 🗄️ **CRUD Operations**: Writing SELECT queries, inserting, updating, and deleting records.
-- 🔗 **Table Relationships**: Joins (INNER, LEFT, RIGHT, FULL OUTER), subqueries, and table unions.
-- 📊 **Aggregations**: GROUP BY, HAVING, and aggregate functions (SUM, AVG, MIN, MAX, COUNT).
-- 🚀 **Advanced SQL**: Writing window functions (RANK, DENSE_RANK), views, and stored procedures.
-
-**Module 03**: Statistics & Mathematics
-
-- 📊 **Descriptive Statistics:** Central tendency (Mean, Median, Mode), Variance, and Standard Deviation.
-- 🎲 **Inferential Statistics:** Probability Theory, Z-score calculations, Normal and Binomial Distributions.
-- 🧪 **Hypothesis Testing:** Null and Alternative Hypotheses, T-tests, ANOVA, and P-value validation.
-- 🧮 **Linear Algebra:** Matrices, Dot Products, Vectors, and Optimization Techniques. 
- 
-
-_________________________________________________________________________________________________________________________________________________________________
-
 -💻 Programming Language 
 
      • Python
