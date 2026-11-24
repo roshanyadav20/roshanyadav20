@@ -20,7 +20,7 @@ ________________________________________________________________________________
 
 - 🎓 **Course**: Data Science/ML with AI
 - 🌐 **Platform**: [https://kodetocareer.com]
-- 👨‍🏫 **Instructor**: [Mehak]
+- 👨‍🏫 **Instructor**: [Mehak Rana]
 - 💻 **Learning Mode**: Online Learning
 ____________________________________________________________________________________________________________________________________
 ## 🎯 Career Goals
