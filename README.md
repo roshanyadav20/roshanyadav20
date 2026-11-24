@@ -1,6 +1,15 @@
                                                             Hi 👋, I'm Roshan Yadav
 
-__________________________________________________________________________________________________________________________________                                                            
+__________________________________________________________________________________________________________________________________                                                                                                                          
+-🌐 Connect With Me
+
+-🐙 GitHub: https://github.com/roshanyadav20
+
+-💼 LinkedIn: https://www.linkedin.com/in/roshanyadav337/
+
+ 📧Email: roshanyadav7864@gmail.com
+ 
+__________________________________________________________________________________________________________________________________
 
 # 🐍 Python-Learner
 
@@ -23,10 +32,10 @@ ________________________________________________________________________________
 
 **Module 01**: Python Programming
 
--🧩 **Core Syntax**: Variables, basic operators, data types, and conditional structures.
--🔄 **Functions & Loops**: Writing reusable functions, list comprehensions, and while/for loops.
--🏗️ **OOP Principles**: Designing classes, inheritance, encapsulation, and exception handling.
--📂 **Data Operations**: File reading/writing, JSON payloads, directories, and standard Python modules.
+- 🧩 **Core Syntax**: Variables, basic operators, data types, and conditional structures.
+- 🔄 **Functions and Loops**: Writing reusable functions, list comprehensions, and while/for loops.
+- 🏗️ **OOP Principles**: Designing classes, inheritance, encapsulation, and exception handling.
+- 📂 **Data Operations**: File reading/writing, JSON payloads, directories, and standard Python modules.
 
 **Module 02**: SQL & Databases
 
@@ -34,14 +43,7 @@ ________________________________________________________________________________
 - 🔗 **Table Relationships**: Joins (INNER, LEFT, RIGHT, FULL OUTER), subqueries, and table unions.
 - 📊 **Aggregations**: GROUP BY, HAVING, and aggregate functions (SUM, AVG, MIN, MAX, COUNT).
 - 🚀 **Advanced SQL**: Writing window functions (RANK, DENSE_RANK), views, and stored procedures.
-________________________________________________________________________________________________________________________________________________________________                                                               
--🌐 Connect With Me
-
--🐙 GitHub: https://github.com/roshanyadav20
-
--💼 LinkedIn: https://www.linkedin.com/in/roshanyadav337/
-
- 📧Email: roshanyadav7864@gmail.com
+ 
 
 _________________________________________________________________________________________________________________________________________________________________
 
